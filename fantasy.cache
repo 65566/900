@@ -8,7 +8,7 @@ config.mjs
 constants.mjs
 exploit.mjs
 goldhen.bin
-./fantasy.jpg
+fantasy.jpg
 index.html
 int64.js
 int64.mjs
